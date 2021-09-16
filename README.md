@@ -9,7 +9,7 @@ I am Yogurt-lei. a passionate full-stack (back-end biased) developer from ShangH
 I work at [SAP.com](https://www.sap.com) as a Back-end developer.
 Our work are fascinating and challenging 💪.
 
-我是 zhen,lei，全栈偏前端开发者，现居 🇨🇳 中国上海。
+我是 zhen,lei，全栈偏后端开发者，现居 🇨🇳 中国上海。
 
 我目前就职于 [SAP.com](https://www.sap.cn)，主要写后端。
 我很喜欢我厂的工作，新鲜有趣也很有挑战性 💪。
