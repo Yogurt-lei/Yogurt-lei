@@ -2,7 +2,7 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yogurt-lei&theme=vue)
 
-[![Anurag's GitHub stats](https://activity-graph.herokuapp.com/graph?username=Yogurt-lei&theme=github&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yogurt-lei&count_private=true&show_icons=true&theme=vue)
 
 ## 👋 Hi there
 
