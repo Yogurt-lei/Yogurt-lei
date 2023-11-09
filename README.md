@@ -4,6 +4,9 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yogurt-lei&count_private=true&show_icons=true&theme=vue)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## 👋 Hi there
 
 I am Zhen Lei. a passionate full-stack (back-end biased) developer from ShangHai, China
