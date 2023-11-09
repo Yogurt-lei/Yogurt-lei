@@ -1,8 +1,5 @@
 # Hi, I am Zhen Lei
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yogurt-lei&theme=vue)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yogurt-lei&count_private=true&show_icons=true&theme=vue)
 
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
@@ -19,6 +16,13 @@ VS Code                  39 mins             ███████████�
 
 
 <!--END_SECTION:waka-->
+
+
+## 🌍 The languages I Use
+
+| ⏰ Past Month                                                                                                                                                  | ⌛️ All Time                                                                                                                                                  |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| <a href="https://wakatime.com/@9a64fd4e-85ff-48a6-a0c1-e09ecd80bab9"> <img src="https://wakatime.com/share/@9a64fd4e-85ff-48a6-a0c1-e09ecd80bab9/d4d51763-6167-402a-86a9-74c1e363750e.svg" height="300px"></a> | <a href="https://wakatime.com/@9a64fd4e-85ff-48a6-a0c1-e09ecd80bab9"><img src="https://wakatime.com/share/@9a64fd4e-85ff-48a6-a0c1-e09ecd80bab9/455e730b-0452-4b83-9bc2-fb46e42553a7.svg" height="300px"></a> |
 
 ## 👋 Hi there
 
