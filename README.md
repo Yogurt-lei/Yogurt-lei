@@ -24,7 +24,7 @@ GoLand                   27 mins             █░░░░░░░░░░�
 
 | ⏰ Past Month                                                                                                                                                  | ⌛️ All Time                                                                                                                                                  |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| <a href="https://wakatime.com/@9a64fd4e-85ff-48a6-a0c1-e09ecd80bab9"> <img src="https://wakatime.com/share/@9a64fd4e-85ff-48a6-a0c1-e09ecd80bab9/d4d51763-6167-402a-86a9-74c1e363750e.svg" height="300px"></a> | <a href="https://wakatime.com/@9a64fd4e-85ff-48a6-a0c1-e09ecd80bab9"><img src="https://wakatime.com/share/@9a64fd4e-85ff-48a6-a0c1-e09ecd80bab9/455e730b-0452-4b83-9bc2-fb46e42553a7.svg" height="300px"></a> |
+| <a href="https://wakatime.com/@9a64fd4e-85ff-48a6-a0c1-e09ecd80bab9"> <img src="https://wakatime.com/share/@9a64fd4e-85ff-48a6-a0c1-e09ecd80bab9/5f97c4a7-f918-43db-bace-c48898f1cd61.svg" height="300px"></a> | <a href="https://wakatime.com/@9a64fd4e-85ff-48a6-a0c1-e09ecd80bab9"><img src="https://wakatime.com/share/@9a64fd4e-85ff-48a6-a0c1-e09ecd80bab9/455e730b-0452-4b83-9bc2-fb46e42553a7.svg" height="300px"></a> |
 
 ## 👋 Hi there
 
