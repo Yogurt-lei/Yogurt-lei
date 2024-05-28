@@ -3,6 +3,8 @@
 ![skills](https://skillicons.dev/icons?i=js,ts,nodejs,androidstudio,apple,azure,bash,discord,docker,django,eclipse,express,git,github,githubactions,gitlab,gmail,go,gradle,grafana,idea,ai,java,jenkins,jest,jquery,kafka,kubernetes,linux,md,maven,mongodb,mysql,nestjs,nginx,notion,npm,obsidian,postgres,postman,powershell,prometheus,pycharm,py,redis,regex,spring,sqlite,stackoverflow,sublime,scala,selenium,svg,swift,vscode,vite,vitest,vue,webstorm,yarn)
 ---
 
+[![](https://raw.githubusercontent.com/Yogurt-lei/Yogurt-lei/main/github-snake.svg)](https://github.com/Yogurt-lei)
+
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
 
