@@ -10,10 +10,14 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     1 hr 24 mins        █████████░░░░░░░░░░░░░░░░   37.81 % 
+JSON                     1 hr 22 mins        █████████░░░░░░░░░░░░░░░░   36.93 % 
+Markdown                 52 mins             ██████░░░░░░░░░░░░░░░░░░░   23.58 % 
+Text                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ IDEA            3 hrs 42 mins       █████████████████████████   100.00 % 
 ```
 
 
