@@ -10,15 +10,15 @@
 
 ```text
 💬 Programming Languages: 
-Other                    32 hrs 47 mins      █████████████░░░░░░░░░░░░   53.60 % 
-Java                     10 hrs 19 mins      ████░░░░░░░░░░░░░░░░░░░░░   16.89 % 
-TypeScript               5 hrs 14 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
-Python                   3 hrs 40 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
-Markdown                 2 hrs 22 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
+Other                    29 hrs 24 mins      ███████████░░░░░░░░░░░░░░   43.56 % 
+Java                     10 hrs 50 mins      ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
+TypeScript               5 hrs 49 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
+Python                   5 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
+HTML                     4 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
 
 🔥 Editors: 
-Claude Code              52 hrs 18 mins      █████████████████████░░░░   85.53 % 
-IntelliJ IDEA            8 hrs 51 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
+Claude Code              58 hrs 27 mins      ██████████████████████░░░   86.61 % 
+IntelliJ IDEA            9 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
 ```
 
 
