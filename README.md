@@ -6,6 +6,21 @@
 [![](https://raw.githubusercontent.com/Yogurt-lei/Yogurt-lei/main/github-snake.svg)](https://github.com/Yogurt-lei)
 
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Other                    17 hrs 33 mins      ███████░░░░░░░░░░░░░░░░░░   28.54 % 
+TypeScript               10 hrs 9 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.52 % 
+Python                   9 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
+Java                     6 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
+Markdown                 5 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
+
+🔥 Editors: 
+Claude Code              54 hrs 40 mins      ██████████████████████░░░   88.86 % 
+IntelliJ IDEA            6 hrs 51 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
+```
+
 
 <!--END_SECTION:waka-->
 
