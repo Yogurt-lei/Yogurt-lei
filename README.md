@@ -10,15 +10,15 @@
 
 ```text
 💬 Programming Languages: 
-Java                     8 hrs 29 mins       █████████████░░░░░░░░░░░░   52.09 % 
-Other                    2 hrs 47 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.08 % 
-JavaScript               2 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
-Markdown                 34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
-HTML                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
+Java                     8 hrs 16 mins       █████████████░░░░░░░░░░░░   50.90 % 
+Other                    2 hrs 56 mins       █████░░░░░░░░░░░░░░░░░░░░   18.13 % 
+JavaScript               2 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
+Markdown                 34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
+HTML                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
 
 🔥 Editors: 
-Claude Code              12 hrs 29 mins      ███████████████████░░░░░░   76.60 % 
-IntelliJ IDEA            3 hrs 39 mins       ██████░░░░░░░░░░░░░░░░░░░   22.42 % 
+Claude Code              13 hrs 25 mins      █████████████████████░░░░   82.62 % 
+IntelliJ IDEA            2 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
 VS Code                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
 Exec Wakatime            4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
 ```
