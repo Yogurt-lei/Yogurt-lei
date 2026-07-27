@@ -6,19 +6,46 @@
 [![](https://raw.githubusercontent.com/Yogurt-lei/Yogurt-lei/main/github-snake.svg)](https://github.com/Yogurt-lei)
 
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-703%20hrs%2057%20mins-blue?style=flat)
+
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Java                     10 hrs 28 mins      ████████░░░░░░░░░░░░░░░░░   32.17 % 
-Markdown                 4 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
-Other                    3 hrs 51 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
-HTML                     3 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
-Python                   3 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
+Java                     11 hrs 50 mins      ████████░░░░░░░░░░░░░░░░░   32.03 % 
+Markdown                 4 hrs 41 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.67 % 
+TypeScript               4 hrs 35 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
+Python                   4 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
+Other                    3 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.04 % 
 
 🔥 Editors: 
-Claude Code              27 hrs 37 mins      █████████████████████░░░░   84.83 % 
-IntelliJ IDEA            4 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.17 % 
+Claude Code              31 hrs 59 mins      ██████████████████████░░░   86.53 % 
+IntelliJ IDEA            4 hrs 58 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 35 hrs 4 mins (94.87%)
+
+✍️ 44,048 lines written by AI, 68 lines written by hand (99.85% AI-written)
+
+🔤 876,820,793 Input Tokens, 1,947,208 Output Tokens
+
+💵 $3843.86 Estimated AI Cost This Week
+
+🧠 190 AI Sessions, 2265 AI Prompts
+
+Opus                     22,763 lines        ████████████░░░░░░░░░░░░░   48.53 % 
+Claude                   20,352 lines        ███████████░░░░░░░░░░░░░░   43.39 % 
+Sonnet                   2,556 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
+Haiku                    1,238 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.85% of written lines came from AI
+📚 Verbose Prompter — average 2,464 characters per prompt
+🔁 Iterative Prompter — average 12 prompts per session
+🚀 High AI Trust — 0.82% of changed lines were hand-edited
 ```
 
 
