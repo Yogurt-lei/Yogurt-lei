@@ -6,49 +6,7 @@
 [![](https://raw.githubusercontent.com/Yogurt-lei/Yogurt-lei/main/github-snake.svg)](https://github.com/Yogurt-lei)
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-781%20hrs%2040%20mins-blue?style=flat)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Java                     15 hrs 24 mins      ███████░░░░░░░░░░░░░░░░░░   29.27 % 
-TypeScript               10 hrs 3 mins       █████░░░░░░░░░░░░░░░░░░░░   19.11 % 
-Markdown                 7 hrs 52 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.96 % 
-Python                   6 hrs 42 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.74 % 
-Other                    5 hrs 49 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
-
-🔥 Editors: 
-Claude Code              46 hrs 50 mins      ██████████████████████░░░   89.01 % 
-IntelliJ IDEA            5 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
-VS Code                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 49 hrs 25 mins (93.9%)
-
-✍️ 43,492 lines written by AI, 691 lines written by hand (98.44% AI-written)
-
-🔤 363,579,193 Input Tokens, 2,263,864 Output Tokens
-
-💵 $2075.46 Estimated AI Cost This Week
-
-🧠 208 AI Sessions, 2807 AI Prompts
-
-Opus                     23,589 lines        █████████████░░░░░░░░░░░░   51.99 % 
-Claude                   20,156 lines        ███████████░░░░░░░░░░░░░░   44.42 % 
-Sonnet                   846 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
-Haiku                    784 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 98.44% of written lines came from AI
-📚 Verbose Prompter — average 1,888 characters per prompt
-🔁 Iterative Prompter — average 13 prompts per session
-🚀 High AI Trust — 2.26% of changed lines were hand-edited
-```
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-792%20hrs%2041%20mins-blue?style=flat)
 
 
 <!--END_SECTION:waka-->
