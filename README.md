@@ -6,7 +6,49 @@
 [![](https://raw.githubusercontent.com/Yogurt-lei/Yogurt-lei/main/github-snake.svg)](https://github.com/Yogurt-lei)
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-792%20hrs%2041%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-799%20hrs%207%20mins-blue?style=flat)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Java                     13 hrs 17 mins      ██████░░░░░░░░░░░░░░░░░░░   25.94 % 
+TypeScript               11 hrs 36 mins      ██████░░░░░░░░░░░░░░░░░░░   22.66 % 
+Other                    7 hrs 52 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
+Python                   7 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
+Markdown                 5 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
+
+🔥 Editors: 
+Claude Code              46 hrs 51 mins      ███████████████████████░░   91.43 % 
+IntelliJ IDEA            4 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
+VS Code                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 49 hrs 36 mins (96.8%)
+
+✍️ 38,466 lines written by AI, 835 lines written by hand (97.88% AI-written)
+
+🔤 238,195,558 Input Tokens, 2,198,577 Output Tokens
+
+💵 $1552.80 Estimated AI Cost This Week
+
+🧠 276 AI Sessions, 3403 AI Prompts
+
+Opus                     21,354 lines        █████████████░░░░░░░░░░░░   52.59 % 
+Claude                   18,484 lines        ███████████░░░░░░░░░░░░░░   45.52 % 
+Haiku                    410 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
+Sonnet                   359 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 97.88% of written lines came from AI
+📚 Verbose Prompter — average 1,947 characters per prompt
+🔁 Iterative Prompter — average 12 prompts per session
+🚀 High AI Trust — 2.62% of changed lines were hand-edited
+```
 
 
 <!--END_SECTION:waka-->
