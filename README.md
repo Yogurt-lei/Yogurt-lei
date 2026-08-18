@@ -6,46 +6,48 @@
 [![](https://raw.githubusercontent.com/Yogurt-lei/Yogurt-lei/main/github-snake.svg)](https://github.com/Yogurt-lei)
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-818%20hrs%2055%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-823%20hrs%2038%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Java                     8 hrs 41 mins       ███████░░░░░░░░░░░░░░░░░░   27.37 % 
-Other                    6 hrs 56 mins       █████░░░░░░░░░░░░░░░░░░░░   21.88 % 
-TypeScript               5 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.17 % 
-Markdown                 3 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.08 % 
-Python                   2 hrs 48 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
+Java                     9 hrs               ███████░░░░░░░░░░░░░░░░░░   26.98 % 
+Other                    7 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
+TypeScript               5 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.68 % 
+Markdown                 4 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.82 % 
+Python                   2 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
 
 🔥 Editors: 
-Claude Code              28 hrs 33 mins      ██████████████████████░░░   89.88 % 
-IntelliJ IDEA            3 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.12 % 
+Claude Code              30 hrs 55 mins      ███████████████████████░░   92.62 % 
+IntelliJ IDEA            2 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
+Codex CLI                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 30 hrs 56 mins (97.41%)
+⏱ AI Coding Time: 32 hrs 57 mins (98.73%)
 
-✍️ 16,729 lines written by AI, 513 lines written by hand (97.02% AI-written)
+✍️ 21,270 lines written by AI, 239 lines written by hand (98.89% AI-written)
 
-🔤 32,367,037 Input Tokens, 1,068,971 Output Tokens
+🔤 36,661,711 Input Tokens, 1,388,568 Output Tokens
 
-💵 $397.82 Estimated AI Cost This Week
+💵 $454.15 Estimated AI Cost This Week
 
-🧠 237 AI Sessions, 2471 AI Prompts
+🧠 253 AI Sessions, 2623 AI Prompts
 
-Opus                     9,340 lines         ████████████░░░░░░░░░░░░░   49.27 % 
-Claude                   9,321 lines         ████████████░░░░░░░░░░░░░   49.17 % 
-Sonnet                   297 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
-Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Claude                   10,986 lines        ████████████░░░░░░░░░░░░░   46.68 % 
+Opus                     10,873 lines        ████████████░░░░░░░░░░░░░   46.20 % 
+Sonnet                   1,508 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
+Haiku                    170 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.02% of written lines came from AI
-📚 Verbose Prompter — average 3,187 characters per prompt
+🤖 AI-Driven — 98.89% of written lines came from AI
+📚 Verbose Prompter — average 6,386 characters per prompt
 🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 2.64% of changed lines were hand-edited
+🚀 High AI Trust — 1.01% of changed lines were hand-edited
 ```
 
 
