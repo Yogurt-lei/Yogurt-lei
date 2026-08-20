@@ -6,49 +6,7 @@
 [![](https://raw.githubusercontent.com/Yogurt-lei/Yogurt-lei/main/github-snake.svg)](https://github.com/Yogurt-lei)
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-832%20hrs%204%20mins-blue?style=flat)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Java                     9 hrs               ███████░░░░░░░░░░░░░░░░░░   26.98 % 
-Other                    7 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
-TypeScript               5 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.68 % 
-Markdown                 4 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.82 % 
-Python                   2 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
-
-🔥 Editors: 
-Claude Code              30 hrs 55 mins      ███████████████████████░░   92.62 % 
-IntelliJ IDEA            2 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
-Codex CLI                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 32 hrs 57 mins (98.73%)
-
-✍️ 21,270 lines written by AI, 239 lines written by hand (98.89% AI-written)
-
-🔤 36,661,711 Input Tokens, 1,388,568 Output Tokens
-
-💵 $454.15 Estimated AI Cost This Week
-
-🧠 253 AI Sessions, 2623 AI Prompts
-
-Claude                   10,986 lines        ████████████░░░░░░░░░░░░░   46.68 % 
-Opus                     10,873 lines        ████████████░░░░░░░░░░░░░   46.20 % 
-Sonnet                   1,508 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
-Haiku                    170 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 98.89% of written lines came from AI
-📚 Verbose Prompter — average 6,386 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 1.01% of changed lines were hand-edited
-```
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-848%20hrs%204%20mins-blue?style=flat)
 
 
 <!--END_SECTION:waka-->
