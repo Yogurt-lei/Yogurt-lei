@@ -8,6 +8,48 @@
 <!--START_SECTION:waka-->
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-848%20hrs%204%20mins-blue?style=flat)
 
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Java                     16 hrs 17 mins      ██████████░░░░░░░░░░░░░░░   40.97 % 
+Other                    7 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   18.12 % 
+Markdown                 4 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
+TypeScript               3 hrs 56 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.90 % 
+HTML                     2 hrs 22 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
+
+🔥 Editors: 
+Claude Code              36 hrs 4 mins       ███████████████████████░░   90.69 % 
+IntelliJ IDEA            3 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
+Codex CLI                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 38 hrs 56 mins (97.89%)
+
+✍️ 26,328 lines written by AI, 249 lines written by hand (99.06% AI-written)
+
+🔤 126,853,460 Input Tokens, 2,040,811 Output Tokens
+
+💵 $996.75 Estimated AI Cost This Week
+
+🧠 271 AI Sessions, 2862 AI Prompts
+
+Claude                   13,915 lines        ████████████░░░░░░░░░░░░░   47.94 % 
+Opus                     13,731 lines        ████████████░░░░░░░░░░░░░   47.30 % 
+Sonnet                   1,211 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+Haiku                    170 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.06% of written lines came from AI
+📚 Verbose Prompter — average 16,716 characters per prompt
+🔁 Iterative Prompter — average 11 prompts per session
+🚀 High AI Trust — 0.87% of changed lines were hand-edited
+```
+
 
 <!--END_SECTION:waka-->
 
