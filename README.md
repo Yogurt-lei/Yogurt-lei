@@ -12,38 +12,16 @@
 
 ```text
 💬 Programming Languages: 
-Java                     1 hr 53 mins        ███████████████████████░░   93.00 % 
-Other                    6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
-GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Claude Code              1 hr 19 mins        ████████████████░░░░░░░░░   65.18 % 
-IntelliJ IDEA            42 mins             █████████░░░░░░░░░░░░░░░░   34.82 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 28 mins (72.68%)
-
-✍️ 13 lines written by AI, 13 lines written by hand (50.0% AI-written)
-
-🔤 32,947,007 Input Tokens, 85,629 Output Tokens
-
-💵 $166.88 Estimated AI Cost This Week
-
-🧠 4 AI Sessions, 8 AI Prompts
-
-Opus                     363 lines           █████████████░░░░░░░░░░░░   52.53 % 
-Claude                   328 lines           ████████████░░░░░░░░░░░░░   47.47 % 
-
-🔎 AI Coding Insights:
-⚖️ Balanced with AI — 50.0% of written lines came from AI
-📝 Concise Prompter — average 203 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 1.85% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 
