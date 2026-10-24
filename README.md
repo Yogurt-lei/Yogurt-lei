@@ -6,45 +6,45 @@
 [![](https://raw.githubusercontent.com/Yogurt-lei/Yogurt-lei/main/github-snake.svg)](https://github.com/Yogurt-lei)
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C049%20hrs%2045%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C050%20hrs%2028%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Other                    7 hrs 43 mins       ███████████░░░░░░░░░░░░░░   44.96 % 
-Java                     7 hrs 41 mins       ███████████░░░░░░░░░░░░░░   44.77 % 
-HTML                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
+Other                    7 hrs 49 mins       ███████████░░░░░░░░░░░░░░   44.99 % 
+Java                     7 hrs 41 mins       ███████████░░░░░░░░░░░░░░   44.26 % 
+HTML                     44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
 Markdown                 34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
-Python                   10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+Python                   10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
 
 🔥 Editors: 
-Claude Code              14 hrs 32 mins      █████████████████████░░░░   84.68 % 
-IntelliJ IDEA            2 hrs 37 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.32 % 
+Claude Code              14 hrs 44 mins      █████████████████████░░░░   84.86 % 
+IntelliJ IDEA            2 hrs 37 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 hrs 28 mins (90.11%)
+⏱ AI Coding Time: 15 hrs 40 mins (90.23%)
 
-✍️ 8,132 lines written by AI, 95 lines written by hand (98.85% AI-written)
+✍️ 9,860 lines written by AI, 95 lines written by hand (99.05% AI-written)
 
-🔤 222,971,828 Input Tokens, 1,252,609 Output Tokens
+🔤 223,187,659 Input Tokens, 1,290,257 Output Tokens
 
-💵 $1299.60 Estimated AI Cost This Week
+💵 $1303.78 Estimated AI Cost This Week
 
-🧠 112 AI Sessions, 2199 AI Prompts
+🧠 114 AI Sessions, 2224 AI Prompts
 
-Claude                   5,067 lines         █████████████░░░░░░░░░░░░   51.17 % 
-Opus                     4,836 lines         ████████████░░░░░░░░░░░░░   48.83 % 
+Claude                   5,936 lines         █████████████░░░░░░░░░░░░   51.04 % 
+Opus                     5,695 lines         ████████████░░░░░░░░░░░░░   48.96 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.85% of written lines came from AI
-📚 Verbose Prompter — average 7,177 characters per prompt
+🤖 AI-Driven — 99.05% of written lines came from AI
+📚 Verbose Prompter — average 7,317 characters per prompt
 🔁 Iterative Prompter — average 20 prompts per session
-🚀 High AI Trust — 1.07% of changed lines were hand-edited
+🚀 High AI Trust — 0.91% of changed lines were hand-edited
 ```
 
 
